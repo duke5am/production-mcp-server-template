@@ -98,4 +98,17 @@ The paid kit adds the HTTP transport with bearer auth and Origin/Host validation
 token-bucket rate limiting, a six-tool worked server, the `SECURITY.md` and
 `TOOL-DESIGN.md` guides, and **287 tests** including an end-to-end stdio suite.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+- **[agents-md-check](https://github.com/duke5am/agents-md-check)** — Lint AGENTS.md, CLAUDE.md and .cursor/rules for what makes an agent ignore them: dead path references, contradictions, duplicates, unscoped rules.
+  *(if you were searching for "agents.md best practices")*
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **mcp server example** · **model context protocol server template** · **mcp stdio server python** · **mcp server error handling**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
