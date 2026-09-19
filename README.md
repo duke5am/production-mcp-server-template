@@ -1,5 +1,4 @@
-# mcp-server-starter
-
+# production-mcp-server-template
 A **minimal, working MCP server** over stdio — in TypeScript and Python — with the
 three things every toy example gets wrong already handled.
 
