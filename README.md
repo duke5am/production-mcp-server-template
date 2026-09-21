@@ -111,4 +111,4 @@ If you arrived here searching for one of these, this is the tool: **mcp server e
 
 <!-- RELATED:END -->
 
-→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
+→ **[Production MCP Server Kit](https://duke5am.gumroad.com/l/37-mcp-server-kit)** — $39 on Gumroad <!-- GUMROAD-LINK -->
